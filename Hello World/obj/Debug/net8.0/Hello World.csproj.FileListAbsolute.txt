@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/Hello World/bin/Debug/net8.0/Hello World
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/Hello World/bin/Debug/net8.0/Hello World.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/Hello World/bin/Debug/net8.0/Hello World.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/Hello World/bin/Debug/net8.0/Hello World.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/Hello World/bin/Debug/net8.0/Hello World.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/Hello World/obj/Debug/net8.0/Hello World.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/Hello World/obj/Debug/net8.0/Hello World.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/Hello World/obj/Debug/net8.0/Hello World.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/Hello World/obj/Debug/net8.0/Hello World.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/Hello World/obj/Debug/net8.0/Hello World.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/Hello World/obj/Debug/net8.0/Hello World.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/Hello World/obj/Debug/net8.0/refint/Hello World.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/Hello World/obj/Debug/net8.0/Hello World.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/Hello World/obj/Debug/net8.0/Hello World.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/Hello World/obj/Debug/net8.0/ref/Hello World.dll
