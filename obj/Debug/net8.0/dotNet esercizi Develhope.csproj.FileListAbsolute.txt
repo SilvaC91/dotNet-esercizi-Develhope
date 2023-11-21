@@ -12,3 +12,4 @@
 /Users/giorgia.impro/Desktop/dotNet esercizi Develhope/obj/Debug/net8.0/dotNet esercizi Develhope.pdb
 /Users/giorgia.impro/Desktop/dotNet esercizi Develhope/obj/Debug/net8.0/dotNet esercizi Develhope.genruntimeconfig.cache
 /Users/giorgia.impro/Desktop/dotNet esercizi Develhope/obj/Debug/net8.0/ref/dotNet esercizi Develhope.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/obj/Debug/net8.0/dotNet esercizi Develhope.sourcelink.json
