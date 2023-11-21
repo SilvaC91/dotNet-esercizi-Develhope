@@ -1,0 +1,14 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/bin/Debug/net8.0/dotNet esercizi Develhope
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/bin/Debug/net8.0/dotNet esercizi Develhope.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/bin/Debug/net8.0/dotNet esercizi Develhope.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/bin/Debug/net8.0/dotNet esercizi Develhope.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/bin/Debug/net8.0/dotNet esercizi Develhope.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/obj/Debug/net8.0/dotNet esercizi Develhope.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/obj/Debug/net8.0/dotNet esercizi Develhope.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/obj/Debug/net8.0/dotNet esercizi Develhope.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/obj/Debug/net8.0/dotNet esercizi Develhope.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/obj/Debug/net8.0/dotNet esercizi Develhope.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/obj/Debug/net8.0/refint/dotNet esercizi Develhope.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/obj/Debug/net8.0/dotNet esercizi Develhope.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/obj/Debug/net8.0/dotNet esercizi Develhope.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/obj/Debug/net8.0/ref/dotNet esercizi Develhope.dll

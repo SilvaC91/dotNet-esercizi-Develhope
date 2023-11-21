@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "dotNet esercizi Develhope/1.0.0": {
+        "runtime": {
+          "dotNet esercizi Develhope.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dotNet esercizi Develhope/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
