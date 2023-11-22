@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "002_Ask input name and print/1.0.0": {
+        "runtime": {
+          "002_Ask input name and print.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "002_Ask input name and print/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

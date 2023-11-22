@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/003_sum of two numbers in input/obj/Debug/net8.0/003_sum of two numbers in input.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/003_sum of two numbers in input/obj/Debug/net8.0/003_sum of two numbers in input.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/003_sum of two numbers in input/obj/Debug/net8.0/003_sum of two numbers in input.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/003_sum of two numbers in input/obj/Debug/net8.0/003_sum of two numbers in input.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/003_sum of two numbers in input/obj/Debug/net8.0/003_sum of two numbers in input.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/003_sum of two numbers in input/bin/Debug/net8.0/003_sum of two numbers in input
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/003_sum of two numbers in input/bin/Debug/net8.0/003_sum of two numbers in input.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/003_sum of two numbers in input/bin/Debug/net8.0/003_sum of two numbers in input.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/003_sum of two numbers in input/bin/Debug/net8.0/003_sum of two numbers in input.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/003_sum of two numbers in input/bin/Debug/net8.0/003_sum of two numbers in input.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/003_sum of two numbers in input/obj/Debug/net8.0/003_sum of two numbers in input.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/003_sum of two numbers in input/obj/Debug/net8.0/refint/003_sum of two numbers in input.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/003_sum of two numbers in input/obj/Debug/net8.0/003_sum of two numbers in input.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/003_sum of two numbers in input/obj/Debug/net8.0/003_sum of two numbers in input.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/003_sum of two numbers in input/obj/Debug/net8.0/ref/003_sum of two numbers in input.dll

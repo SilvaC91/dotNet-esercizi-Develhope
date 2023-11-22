@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/002_Ask input name and print/bin/Debug/net8.0/002_Ask input name and print
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/002_Ask input name and print/bin/Debug/net8.0/002_Ask input name and print.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/002_Ask input name and print/bin/Debug/net8.0/002_Ask input name and print.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/002_Ask input name and print/bin/Debug/net8.0/002_Ask input name and print.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/002_Ask input name and print/bin/Debug/net8.0/002_Ask input name and print.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/002_Ask input name and print/obj/Debug/net8.0/002_Ask input name and print.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/002_Ask input name and print/obj/Debug/net8.0/002_Ask input name and print.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/002_Ask input name and print/obj/Debug/net8.0/002_Ask input name and print.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/002_Ask input name and print/obj/Debug/net8.0/002_Ask input name and print.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/002_Ask input name and print/obj/Debug/net8.0/002_Ask input name and print.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/002_Ask input name and print/obj/Debug/net8.0/002_Ask input name and print.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/002_Ask input name and print/obj/Debug/net8.0/refint/002_Ask input name and print.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/002_Ask input name and print/obj/Debug/net8.0/002_Ask input name and print.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/002_Ask input name and print/obj/Debug/net8.0/002_Ask input name and print.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/002_Ask input name and print/obj/Debug/net8.0/ref/002_Ask input name and print.dll
