@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/004_Take a string input and display it reverse/obj/Debug/net8.0/004_Take a string input and display it reverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/004_Take a string input and display it reverse/obj/Debug/net8.0/004_Take a string input and display it reverse.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/004_Take a string input and display it reverse/obj/Debug/net8.0/004_Take a string input and display it reverse.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/004_Take a string input and display it reverse/obj/Debug/net8.0/004_Take a string input and display it reverse.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/004_Take a string input and display it reverse/obj/Debug/net8.0/004_Take a string input and display it reverse.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/004_Take a string input and display it reverse/bin/Debug/net8.0/004_Take a string input and display it reverse
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/004_Take a string input and display it reverse/bin/Debug/net8.0/004_Take a string input and display it reverse.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/004_Take a string input and display it reverse/bin/Debug/net8.0/004_Take a string input and display it reverse.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/004_Take a string input and display it reverse/bin/Debug/net8.0/004_Take a string input and display it reverse.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/004_Take a string input and display it reverse/bin/Debug/net8.0/004_Take a string input and display it reverse.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/004_Take a string input and display it reverse/obj/Debug/net8.0/004_Take a string input and display it reverse.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/004_Take a string input and display it reverse/obj/Debug/net8.0/refint/004_Take a string input and display it reverse.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/004_Take a string input and display it reverse/obj/Debug/net8.0/004_Take a string input and display it reverse.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/004_Take a string input and display it reverse/obj/Debug/net8.0/004_Take a string input and display it reverse.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/004_Take a string input and display it reverse/obj/Debug/net8.0/ref/004_Take a string input and display it reverse.dll
