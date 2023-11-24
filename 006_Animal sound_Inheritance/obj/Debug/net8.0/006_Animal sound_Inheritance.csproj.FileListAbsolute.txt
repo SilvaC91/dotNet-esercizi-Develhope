@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/006_Animal sound_Inheritance/obj/Debug/net8.0/006_Animal sound_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/006_Animal sound_Inheritance/obj/Debug/net8.0/006_Animal sound_Inheritance.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/006_Animal sound_Inheritance/obj/Debug/net8.0/006_Animal sound_Inheritance.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/006_Animal sound_Inheritance/obj/Debug/net8.0/006_Animal sound_Inheritance.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/006_Animal sound_Inheritance/obj/Debug/net8.0/006_Animal sound_Inheritance.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/006_Animal sound_Inheritance/bin/Debug/net8.0/006_Animal sound_Inheritance
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/006_Animal sound_Inheritance/bin/Debug/net8.0/006_Animal sound_Inheritance.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/006_Animal sound_Inheritance/bin/Debug/net8.0/006_Animal sound_Inheritance.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/006_Animal sound_Inheritance/bin/Debug/net8.0/006_Animal sound_Inheritance.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/006_Animal sound_Inheritance/bin/Debug/net8.0/006_Animal sound_Inheritance.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/006_Animal sound_Inheritance/obj/Debug/net8.0/006_Animal sound_Inheritance.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/006_Animal sound_Inheritance/obj/Debug/net8.0/refint/006_Animal sound_Inheritance.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/006_Animal sound_Inheritance/obj/Debug/net8.0/006_Animal sound_Inheritance.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/006_Animal sound_Inheritance/obj/Debug/net8.0/006_Animal sound_Inheritance.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/006_Animal sound_Inheritance/obj/Debug/net8.0/ref/006_Animal sound_Inheritance.dll
