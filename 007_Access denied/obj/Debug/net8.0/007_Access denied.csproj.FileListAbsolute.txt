@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/007_Access denied/obj/Debug/net8.0/007_Access denied.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/007_Access denied/obj/Debug/net8.0/007_Access denied.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/007_Access denied/obj/Debug/net8.0/007_Access denied.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/007_Access denied/obj/Debug/net8.0/007_Access denied.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/007_Access denied/obj/Debug/net8.0/007_Access denied.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/007_Access denied/bin/Debug/net8.0/007_Access denied
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/007_Access denied/bin/Debug/net8.0/007_Access denied.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/007_Access denied/bin/Debug/net8.0/007_Access denied.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/007_Access denied/bin/Debug/net8.0/007_Access denied.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/007_Access denied/bin/Debug/net8.0/007_Access denied.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/007_Access denied/obj/Debug/net8.0/007_Access denied.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/007_Access denied/obj/Debug/net8.0/refint/007_Access denied.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/007_Access denied/obj/Debug/net8.0/007_Access denied.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/007_Access denied/obj/Debug/net8.0/007_Access denied.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/007_Access denied/obj/Debug/net8.0/ref/007_Access denied.dll

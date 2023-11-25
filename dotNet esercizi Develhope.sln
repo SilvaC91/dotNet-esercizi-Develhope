@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Reading from a file", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Animal sound_Inheritance", "006_Animal sound_Inheritance\006_Animal sound_Inheritance.csproj", "{B81582D1-716F-48E1-8BDF-A0FC8EC484A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Access denied", "007_Access denied\007_Access denied.csproj", "{09E1C580-0165-4FF8-95AD-56D39507F603}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -103,5 +105,17 @@ Global
 		{B81582D1-716F-48E1-8BDF-A0FC8EC484A0}.Release|x64.Build.0 = Release|Any CPU
 		{B81582D1-716F-48E1-8BDF-A0FC8EC484A0}.Release|x86.ActiveCfg = Release|Any CPU
 		{B81582D1-716F-48E1-8BDF-A0FC8EC484A0}.Release|x86.Build.0 = Release|Any CPU
+		{09E1C580-0165-4FF8-95AD-56D39507F603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E1C580-0165-4FF8-95AD-56D39507F603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E1C580-0165-4FF8-95AD-56D39507F603}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{09E1C580-0165-4FF8-95AD-56D39507F603}.Debug|x64.Build.0 = Debug|Any CPU
+		{09E1C580-0165-4FF8-95AD-56D39507F603}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{09E1C580-0165-4FF8-95AD-56D39507F603}.Debug|x86.Build.0 = Debug|Any CPU
+		{09E1C580-0165-4FF8-95AD-56D39507F603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E1C580-0165-4FF8-95AD-56D39507F603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09E1C580-0165-4FF8-95AD-56D39507F603}.Release|x64.ActiveCfg = Release|Any CPU
+		{09E1C580-0165-4FF8-95AD-56D39507F603}.Release|x64.Build.0 = Release|Any CPU
+		{09E1C580-0165-4FF8-95AD-56D39507F603}.Release|x86.ActiveCfg = Release|Any CPU
+		{09E1C580-0165-4FF8-95AD-56D39507F603}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
