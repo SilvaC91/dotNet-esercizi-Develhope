@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/008_Check palindrome word or sentence/bin/Debug/net8.0/008_Check palindrome word or sentence
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/008_Check palindrome word or sentence/bin/Debug/net8.0/008_Check palindrome word or sentence.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/008_Check palindrome word or sentence/bin/Debug/net8.0/008_Check palindrome word or sentence.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/008_Check palindrome word or sentence/bin/Debug/net8.0/008_Check palindrome word or sentence.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/008_Check palindrome word or sentence/bin/Debug/net8.0/008_Check palindrome word or sentence.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/008_Check palindrome word or sentence/obj/Debug/net8.0/008_Check palindrome word or sentence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/008_Check palindrome word or sentence/obj/Debug/net8.0/008_Check palindrome word or sentence.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/008_Check palindrome word or sentence/obj/Debug/net8.0/008_Check palindrome word or sentence.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/008_Check palindrome word or sentence/obj/Debug/net8.0/008_Check palindrome word or sentence.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/008_Check palindrome word or sentence/obj/Debug/net8.0/008_Check palindrome word or sentence.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/008_Check palindrome word or sentence/obj/Debug/net8.0/008_Check palindrome word or sentence.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/008_Check palindrome word or sentence/obj/Debug/net8.0/refint/008_Check palindrome word or sentence.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/008_Check palindrome word or sentence/obj/Debug/net8.0/008_Check palindrome word or sentence.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/008_Check palindrome word or sentence/obj/Debug/net8.0/008_Check palindrome word or sentence.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/008_Check palindrome word or sentence/obj/Debug/net8.0/ref/008_Check palindrome word or sentence.dll
