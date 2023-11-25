@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Access denied", "007_Ac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Check palindrome word or sentence", "008_Check palindrome word or sentence\008_Check palindrome word or sentence.csproj", "{C9302CA1-8038-4A42-9DA5-386A225BD1D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Celsius to Fahrenheit conversion", "009_Celsius to Fahrenheit conversion\009_Celsius to Fahrenheit conversion.csproj", "{0C112F18-2FA6-4D2B-ACB1-A53C7318E7F0}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -131,5 +133,17 @@ Global
 		{C9302CA1-8038-4A42-9DA5-386A225BD1D5}.Release|x64.Build.0 = Release|Any CPU
 		{C9302CA1-8038-4A42-9DA5-386A225BD1D5}.Release|x86.ActiveCfg = Release|Any CPU
 		{C9302CA1-8038-4A42-9DA5-386A225BD1D5}.Release|x86.Build.0 = Release|Any CPU
+		{0C112F18-2FA6-4D2B-ACB1-A53C7318E7F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C112F18-2FA6-4D2B-ACB1-A53C7318E7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C112F18-2FA6-4D2B-ACB1-A53C7318E7F0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0C112F18-2FA6-4D2B-ACB1-A53C7318E7F0}.Debug|x64.Build.0 = Debug|Any CPU
+		{0C112F18-2FA6-4D2B-ACB1-A53C7318E7F0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0C112F18-2FA6-4D2B-ACB1-A53C7318E7F0}.Debug|x86.Build.0 = Debug|Any CPU
+		{0C112F18-2FA6-4D2B-ACB1-A53C7318E7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C112F18-2FA6-4D2B-ACB1-A53C7318E7F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C112F18-2FA6-4D2B-ACB1-A53C7318E7F0}.Release|x64.ActiveCfg = Release|Any CPU
+		{0C112F18-2FA6-4D2B-ACB1-A53C7318E7F0}.Release|x64.Build.0 = Release|Any CPU
+		{0C112F18-2FA6-4D2B-ACB1-A53C7318E7F0}.Release|x86.ActiveCfg = Release|Any CPU
+		{0C112F18-2FA6-4D2B-ACB1-A53C7318E7F0}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

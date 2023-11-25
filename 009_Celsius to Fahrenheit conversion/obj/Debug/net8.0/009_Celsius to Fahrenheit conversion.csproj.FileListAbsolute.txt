@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/009_Celsius to Fahrenheit conversion/bin/Debug/net8.0/009_Celsius to Fahrenheit conversion
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/009_Celsius to Fahrenheit conversion/bin/Debug/net8.0/009_Celsius to Fahrenheit conversion.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/009_Celsius to Fahrenheit conversion/bin/Debug/net8.0/009_Celsius to Fahrenheit conversion.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/009_Celsius to Fahrenheit conversion/bin/Debug/net8.0/009_Celsius to Fahrenheit conversion.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/009_Celsius to Fahrenheit conversion/bin/Debug/net8.0/009_Celsius to Fahrenheit conversion.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/009_Celsius to Fahrenheit conversion/obj/Debug/net8.0/009_Celsius to Fahrenheit conversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/009_Celsius to Fahrenheit conversion/obj/Debug/net8.0/009_Celsius to Fahrenheit conversion.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/009_Celsius to Fahrenheit conversion/obj/Debug/net8.0/009_Celsius to Fahrenheit conversion.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/009_Celsius to Fahrenheit conversion/obj/Debug/net8.0/009_Celsius to Fahrenheit conversion.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/009_Celsius to Fahrenheit conversion/obj/Debug/net8.0/009_Celsius to Fahrenheit conversion.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/009_Celsius to Fahrenheit conversion/obj/Debug/net8.0/009_Celsius to Fahrenheit conversion.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/009_Celsius to Fahrenheit conversion/obj/Debug/net8.0/refint/009_Celsius to Fahrenheit conversion.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/009_Celsius to Fahrenheit conversion/obj/Debug/net8.0/009_Celsius to Fahrenheit conversion.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/009_Celsius to Fahrenheit conversion/obj/Debug/net8.0/009_Celsius to Fahrenheit conversion.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/009_Celsius to Fahrenheit conversion/obj/Debug/net8.0/ref/009_Celsius to Fahrenheit conversion.dll
