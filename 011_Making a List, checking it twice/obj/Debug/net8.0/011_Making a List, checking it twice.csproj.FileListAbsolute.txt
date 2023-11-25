@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/011_Making a List, checking it twice/obj/Debug/net8.0/011_Making a List, checking it twice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/011_Making a List, checking it twice/obj/Debug/net8.0/011_Making a List, checking it twice.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/011_Making a List, checking it twice/obj/Debug/net8.0/011_Making a List, checking it twice.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/011_Making a List, checking it twice/obj/Debug/net8.0/011_Making a List, checking it twice.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/011_Making a List, checking it twice/obj/Debug/net8.0/011_Making a List, checking it twice.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/011_Making a List, checking it twice/bin/Debug/net8.0/011_Making a List, checking it twice
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/011_Making a List, checking it twice/bin/Debug/net8.0/011_Making a List, checking it twice.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/011_Making a List, checking it twice/bin/Debug/net8.0/011_Making a List, checking it twice.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/011_Making a List, checking it twice/bin/Debug/net8.0/011_Making a List, checking it twice.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/011_Making a List, checking it twice/bin/Debug/net8.0/011_Making a List, checking it twice.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/011_Making a List, checking it twice/obj/Debug/net8.0/011_Making a List, checking it twice.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/011_Making a List, checking it twice/obj/Debug/net8.0/refint/011_Making a List, checking it twice.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/011_Making a List, checking it twice/obj/Debug/net8.0/011_Making a List, checking it twice.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/011_Making a List, checking it twice/obj/Debug/net8.0/011_Making a List, checking it twice.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/011_Making a List, checking it twice/obj/Debug/net8.0/ref/011_Making a List, checking it twice.dll

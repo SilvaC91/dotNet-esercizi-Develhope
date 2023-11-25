@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Celsius to Fahrenheit c
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_Celsius to Fahrenheit or Fahrenheit to Celsius conversion", "010_Celsius to Fahrenheit or Fahrenheit to Celsius conversion\010_Celsius to Fahrenheit or Fahrenheit to Celsius conversion.csproj", "{85EF3D80-BC13-4B1F-A0D8-8D95A83007C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_Making a List, checking it twice", "011_Making a List, checking it twice\011_Making a List, checking it twice.csproj", "{B7C61C47-5A60-43D0-BC38-9582AF1670D8}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -159,5 +161,17 @@ Global
 		{85EF3D80-BC13-4B1F-A0D8-8D95A83007C9}.Release|x64.Build.0 = Release|Any CPU
 		{85EF3D80-BC13-4B1F-A0D8-8D95A83007C9}.Release|x86.ActiveCfg = Release|Any CPU
 		{85EF3D80-BC13-4B1F-A0D8-8D95A83007C9}.Release|x86.Build.0 = Release|Any CPU
+		{B7C61C47-5A60-43D0-BC38-9582AF1670D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C61C47-5A60-43D0-BC38-9582AF1670D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C61C47-5A60-43D0-BC38-9582AF1670D8}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B7C61C47-5A60-43D0-BC38-9582AF1670D8}.Debug|x64.Build.0 = Debug|Any CPU
+		{B7C61C47-5A60-43D0-BC38-9582AF1670D8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B7C61C47-5A60-43D0-BC38-9582AF1670D8}.Debug|x86.Build.0 = Debug|Any CPU
+		{B7C61C47-5A60-43D0-BC38-9582AF1670D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C61C47-5A60-43D0-BC38-9582AF1670D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7C61C47-5A60-43D0-BC38-9582AF1670D8}.Release|x64.ActiveCfg = Release|Any CPU
+		{B7C61C47-5A60-43D0-BC38-9582AF1670D8}.Release|x64.Build.0 = Release|Any CPU
+		{B7C61C47-5A60-43D0-BC38-9582AF1670D8}.Release|x86.ActiveCfg = Release|Any CPU
+		{B7C61C47-5A60-43D0-BC38-9582AF1670D8}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
