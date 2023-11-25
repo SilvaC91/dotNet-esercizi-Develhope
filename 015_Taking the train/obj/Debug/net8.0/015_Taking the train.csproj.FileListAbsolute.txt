@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/015_Taking the train/bin/Debug/net8.0/015_Taking the train
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/015_Taking the train/bin/Debug/net8.0/015_Taking the train.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/015_Taking the train/bin/Debug/net8.0/015_Taking the train.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/015_Taking the train/bin/Debug/net8.0/015_Taking the train.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/015_Taking the train/bin/Debug/net8.0/015_Taking the train.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/015_Taking the train/obj/Debug/net8.0/015_Taking the train.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/015_Taking the train/obj/Debug/net8.0/015_Taking the train.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/015_Taking the train/obj/Debug/net8.0/015_Taking the train.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/015_Taking the train/obj/Debug/net8.0/015_Taking the train.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/015_Taking the train/obj/Debug/net8.0/015_Taking the train.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/015_Taking the train/obj/Debug/net8.0/015_Taking the train.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/015_Taking the train/obj/Debug/net8.0/refint/015_Taking the train.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/015_Taking the train/obj/Debug/net8.0/015_Taking the train.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/015_Taking the train/obj/Debug/net8.0/015_Taking the train.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/015_Taking the train/obj/Debug/net8.0/ref/015_Taking the train.dll
