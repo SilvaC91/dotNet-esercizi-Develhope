@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/013_Queueing items/obj/Debug/net8.0/013_Queueing items.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/013_Queueing items/obj/Debug/net8.0/013_Queueing items.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/013_Queueing items/obj/Debug/net8.0/013_Queueing items.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/013_Queueing items/obj/Debug/net8.0/013_Queueing items.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/013_Queueing items/obj/Debug/net8.0/013_Queueing items.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/013_Queueing items/bin/Debug/net8.0/013_Queueing items
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/013_Queueing items/bin/Debug/net8.0/013_Queueing items.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/013_Queueing items/bin/Debug/net8.0/013_Queueing items.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/013_Queueing items/bin/Debug/net8.0/013_Queueing items.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/013_Queueing items/bin/Debug/net8.0/013_Queueing items.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/013_Queueing items/obj/Debug/net8.0/013_Queueing items.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/013_Queueing items/obj/Debug/net8.0/refint/013_Queueing items.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/013_Queueing items/obj/Debug/net8.0/013_Queueing items.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/013_Queueing items/obj/Debug/net8.0/013_Queueing items.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/013_Queueing items/obj/Debug/net8.0/ref/013_Queueing items.dll
