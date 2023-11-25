@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "010_Celsius to Fahrenheit or Fahrenheit to Celsius conversion/1.0.0": {
+        "runtime": {
+          "010_Celsius to Fahrenheit or Fahrenheit to Celsius conversion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "010_Celsius to Fahrenheit or Fahrenheit to Celsius conversion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
