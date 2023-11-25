@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/012_Pick 'n Mix/bin/Debug/net8.0/012_Pick 'n Mix
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/012_Pick 'n Mix/bin/Debug/net8.0/012_Pick 'n Mix.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/012_Pick 'n Mix/bin/Debug/net8.0/012_Pick 'n Mix.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/012_Pick 'n Mix/bin/Debug/net8.0/012_Pick 'n Mix.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/012_Pick 'n Mix/bin/Debug/net8.0/012_Pick 'n Mix.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/012_Pick 'n Mix/obj/Debug/net8.0/012_Pick 'n Mix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/012_Pick 'n Mix/obj/Debug/net8.0/012_Pick 'n Mix.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/012_Pick 'n Mix/obj/Debug/net8.0/012_Pick 'n Mix.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/012_Pick 'n Mix/obj/Debug/net8.0/012_Pick 'n Mix.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/012_Pick 'n Mix/obj/Debug/net8.0/012_Pick 'n Mix.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/012_Pick 'n Mix/obj/Debug/net8.0/012_Pick 'n Mix.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/012_Pick 'n Mix/obj/Debug/net8.0/refint/012_Pick 'n Mix.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/012_Pick 'n Mix/obj/Debug/net8.0/012_Pick 'n Mix.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/012_Pick 'n Mix/obj/Debug/net8.0/012_Pick 'n Mix.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/012_Pick 'n Mix/obj/Debug/net8.0/ref/012_Pick 'n Mix.dll

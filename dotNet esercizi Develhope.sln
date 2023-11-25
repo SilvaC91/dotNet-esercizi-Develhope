@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_Celsius to Fahrenheit o
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_Making a List, checking it twice", "011_Making a List, checking it twice\011_Making a List, checking it twice.csproj", "{B7C61C47-5A60-43D0-BC38-9582AF1670D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012_Pick 'n Mix", "012_Pick 'n Mix\012_Pick 'n Mix.csproj", "{F739FB01-8EFF-4B6D-8DD5-AA490D6451E5}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -173,5 +175,17 @@ Global
 		{B7C61C47-5A60-43D0-BC38-9582AF1670D8}.Release|x64.Build.0 = Release|Any CPU
 		{B7C61C47-5A60-43D0-BC38-9582AF1670D8}.Release|x86.ActiveCfg = Release|Any CPU
 		{B7C61C47-5A60-43D0-BC38-9582AF1670D8}.Release|x86.Build.0 = Release|Any CPU
+		{F739FB01-8EFF-4B6D-8DD5-AA490D6451E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F739FB01-8EFF-4B6D-8DD5-AA490D6451E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F739FB01-8EFF-4B6D-8DD5-AA490D6451E5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F739FB01-8EFF-4B6D-8DD5-AA490D6451E5}.Debug|x64.Build.0 = Debug|Any CPU
+		{F739FB01-8EFF-4B6D-8DD5-AA490D6451E5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F739FB01-8EFF-4B6D-8DD5-AA490D6451E5}.Debug|x86.Build.0 = Debug|Any CPU
+		{F739FB01-8EFF-4B6D-8DD5-AA490D6451E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F739FB01-8EFF-4B6D-8DD5-AA490D6451E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F739FB01-8EFF-4B6D-8DD5-AA490D6451E5}.Release|x64.ActiveCfg = Release|Any CPU
+		{F739FB01-8EFF-4B6D-8DD5-AA490D6451E5}.Release|x64.Build.0 = Release|Any CPU
+		{F739FB01-8EFF-4B6D-8DD5-AA490D6451E5}.Release|x86.ActiveCfg = Release|Any CPU
+		{F739FB01-8EFF-4B6D-8DD5-AA490D6451E5}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
