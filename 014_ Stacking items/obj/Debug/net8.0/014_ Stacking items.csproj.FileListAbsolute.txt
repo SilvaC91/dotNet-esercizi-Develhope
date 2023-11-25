@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/014_ Stacking items/bin/Debug/net8.0/014_ Stacking items
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/014_ Stacking items/bin/Debug/net8.0/014_ Stacking items.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/014_ Stacking items/bin/Debug/net8.0/014_ Stacking items.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/014_ Stacking items/bin/Debug/net8.0/014_ Stacking items.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/014_ Stacking items/bin/Debug/net8.0/014_ Stacking items.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/014_ Stacking items/obj/Debug/net8.0/014_ Stacking items.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/014_ Stacking items/obj/Debug/net8.0/014_ Stacking items.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/014_ Stacking items/obj/Debug/net8.0/014_ Stacking items.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/014_ Stacking items/obj/Debug/net8.0/014_ Stacking items.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/014_ Stacking items/obj/Debug/net8.0/014_ Stacking items.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/014_ Stacking items/obj/Debug/net8.0/014_ Stacking items.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/014_ Stacking items/obj/Debug/net8.0/refint/014_ Stacking items.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/014_ Stacking items/obj/Debug/net8.0/014_ Stacking items.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/014_ Stacking items/obj/Debug/net8.0/014_ Stacking items.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/014_ Stacking items/obj/Debug/net8.0/ref/014_ Stacking items.dll
