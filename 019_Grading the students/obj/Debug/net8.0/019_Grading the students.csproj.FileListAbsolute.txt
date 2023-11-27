@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/019_Grading the students/bin/Debug/net8.0/019_Grading the students
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/019_Grading the students/bin/Debug/net8.0/019_Grading the students.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/019_Grading the students/bin/Debug/net8.0/019_Grading the students.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/019_Grading the students/bin/Debug/net8.0/019_Grading the students.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/019_Grading the students/bin/Debug/net8.0/019_Grading the students.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/019_Grading the students/obj/Debug/net8.0/019_Grading the students.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/019_Grading the students/obj/Debug/net8.0/019_Grading the students.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/019_Grading the students/obj/Debug/net8.0/019_Grading the students.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/019_Grading the students/obj/Debug/net8.0/019_Grading the students.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/019_Grading the students/obj/Debug/net8.0/019_Grading the students.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/019_Grading the students/obj/Debug/net8.0/019_Grading the students.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/019_Grading the students/obj/Debug/net8.0/refint/019_Grading the students.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/019_Grading the students/obj/Debug/net8.0/019_Grading the students.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/019_Grading the students/obj/Debug/net8.0/019_Grading the students.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/019_Grading the students/obj/Debug/net8.0/ref/019_Grading the students.dll
