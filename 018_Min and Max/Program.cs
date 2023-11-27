@@ -9,7 +9,6 @@ int numbersCount = 1000;
 int numbersMax = int.MinValue;
 int numbersMin = int.MaxValue;
 
-
 for(int i=0; i<numbersCount; i++){
     numbers.Add(random.Next());
 }
@@ -17,8 +16,7 @@ for(int i=0; i<numbersCount; i++){
     numbersMax = Math.Max(numbers[i], numbersMax);
     numbersMin = Math.Min(numbers[i], numbersMin);
 }
-
-Console.WriteLine($"Min number = {numbersMin}\nMax number = {numbersMax}");
+Console.WriteLine($"Min number = {numbersMin}\nMax number = ");
 
 
 
