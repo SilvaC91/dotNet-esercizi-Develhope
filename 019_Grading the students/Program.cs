@@ -32,7 +32,5 @@ for(int i=0; i<students.Count; i++){
          indexBestStudent = i;
         }
     gradeMax = Math.Max(students[i].Grade, gradeMax);
-    
 }
-
 Console.WriteLine($"Student with the highest grade\nName: {students[indexBestStudent].Name}, Grade: {gradeMax}");
