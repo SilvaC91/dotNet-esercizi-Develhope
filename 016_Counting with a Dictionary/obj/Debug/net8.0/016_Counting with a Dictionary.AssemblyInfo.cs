@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("016_Counting with a Dictionary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59eea33ee2fd4181d82a0842ce8f64dd6125943a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+856626552a59501c2abf77a69057b426e2969c2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("016_Counting with a Dictionary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("016_Counting with a Dictionary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

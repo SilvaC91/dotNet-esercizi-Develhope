@@ -20,17 +20,15 @@ string stringFromFile = File.ReadAllText(filePath).Trim();
 List<string> words = new List<string>(stringFromFile.Split(' ', ','));
 
 foreach(string word in words){
-    if(uniqueWordsCount.ContainsKey(word.ToLower())){
-        uniqueWordsCount[word.ToLower()]++; 
+    string wordToLower = word.ToLower();
+    if(uniqueWordsCount.ContainsKey(wordToLower)){
+        uniqueWordsCount[wordToLower]++; 
 
-    } else {
-        uniqueWordsCount.Add(word.ToLower(), 1);
+    }else{
+        uniqueWordsCount.Add(wordToLower, 1);
     }
-
-foreach (var kvp in uniqueWordsCount) {
-            Console.WriteLine($"Key = {kvp.Key}, Value = {kvp.Value}");
-        }
 }
-// 3 dog    2 cat     3 horse     2 pig      1 monkey    2 cocodrile
 
-//non stampa le chiavi con il valore massimo raggiunto, ma stampa le chiavi ad ogni aumento del valore
+foreach(var kvp in uniqueWordsCount){
+    Console.WriteLine($"Key = {kvp.Key}, Value = {kvp.Value}");
+}
