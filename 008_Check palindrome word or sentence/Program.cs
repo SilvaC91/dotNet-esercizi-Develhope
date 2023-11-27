@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Write a word or a sentence");
-string str = Console.ReadLine();
+string str = Console.ReadLine().Replace(" ","");
 
 if(str.Length == 0){
     Console.WriteLine("Invalid sentence!");
@@ -13,7 +13,7 @@ for(int i=str.Length-1; i>=0; i--){
 }
 
 
-if(str.Replace(" ","") == reversedString.Replace(" ","")){
+if(str == reversedString){
     Console.WriteLine("Your sentence is a palindrome!");
 } else {
     Console.WriteLine("Your sentence is not a palindrome :(");

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("008_Check palindrome word or sentence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+375f62de3087eaa00356dc69bca3cbfcad709746")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+879f9a806ba6e387ca8f4489f4442de57343a02b")]
 [assembly: System.Reflection.AssemblyProductAttribute("008_Check palindrome word or sentence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("008_Check palindrome word or sentence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
