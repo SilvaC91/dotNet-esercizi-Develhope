@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/017_Explore the HashSet/bin/Debug/net8.0/017_Explore the HashSet
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/017_Explore the HashSet/bin/Debug/net8.0/017_Explore the HashSet.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/017_Explore the HashSet/bin/Debug/net8.0/017_Explore the HashSet.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/017_Explore the HashSet/bin/Debug/net8.0/017_Explore the HashSet.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/017_Explore the HashSet/bin/Debug/net8.0/017_Explore the HashSet.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/017_Explore the HashSet/obj/Debug/net8.0/017_Explore the HashSet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/017_Explore the HashSet/obj/Debug/net8.0/017_Explore the HashSet.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/017_Explore the HashSet/obj/Debug/net8.0/017_Explore the HashSet.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/017_Explore the HashSet/obj/Debug/net8.0/017_Explore the HashSet.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/017_Explore the HashSet/obj/Debug/net8.0/017_Explore the HashSet.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/017_Explore the HashSet/obj/Debug/net8.0/017_Explore the HashSet.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/017_Explore the HashSet/obj/Debug/net8.0/refint/017_Explore the HashSet.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/017_Explore the HashSet/obj/Debug/net8.0/017_Explore the HashSet.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/017_Explore the HashSet/obj/Debug/net8.0/017_Explore the HashSet.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/017_Explore the HashSet/obj/Debug/net8.0/ref/017_Explore the HashSet.dll

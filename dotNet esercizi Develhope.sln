@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "015_Taking the train", "015
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "016_Counting with a Dictionary", "016_Counting with a Dictionary\016_Counting with a Dictionary.csproj", "{DAE33BD1-4760-4190-9E7D-FD670054724D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017_Explore the HashSet", "017_Explore the HashSet\017_Explore the HashSet.csproj", "{0F846B73-2641-4365-A932-E7471864B0DA}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -243,5 +245,17 @@ Global
 		{DAE33BD1-4760-4190-9E7D-FD670054724D}.Release|x64.Build.0 = Release|Any CPU
 		{DAE33BD1-4760-4190-9E7D-FD670054724D}.Release|x86.ActiveCfg = Release|Any CPU
 		{DAE33BD1-4760-4190-9E7D-FD670054724D}.Release|x86.Build.0 = Release|Any CPU
+		{0F846B73-2641-4365-A932-E7471864B0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F846B73-2641-4365-A932-E7471864B0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F846B73-2641-4365-A932-E7471864B0DA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0F846B73-2641-4365-A932-E7471864B0DA}.Debug|x64.Build.0 = Debug|Any CPU
+		{0F846B73-2641-4365-A932-E7471864B0DA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0F846B73-2641-4365-A932-E7471864B0DA}.Debug|x86.Build.0 = Debug|Any CPU
+		{0F846B73-2641-4365-A932-E7471864B0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F846B73-2641-4365-A932-E7471864B0DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F846B73-2641-4365-A932-E7471864B0DA}.Release|x64.ActiveCfg = Release|Any CPU
+		{0F846B73-2641-4365-A932-E7471864B0DA}.Release|x64.Build.0 = Release|Any CPU
+		{0F846B73-2641-4365-A932-E7471864B0DA}.Release|x86.ActiveCfg = Release|Any CPU
+		{0F846B73-2641-4365-A932-E7471864B0DA}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
