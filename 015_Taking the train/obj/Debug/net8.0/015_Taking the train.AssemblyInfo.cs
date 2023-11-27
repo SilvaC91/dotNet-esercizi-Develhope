@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("015_Taking the train")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+025e6f78f51f6ce4918314314d27cbe19f46d004")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34b7c1d407285a12e0b994bb762e10e21de5b273")]
 [assembly: System.Reflection.AssemblyProductAttribute("015_Taking the train")]
 [assembly: System.Reflection.AssemblyTitleAttribute("015_Taking the train")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

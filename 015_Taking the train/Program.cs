@@ -26,3 +26,11 @@ foreach(TrainStation station in trainRoute_Como_to_Milan){
     Console.WriteLine(station.name);
 }
 
+trainRoute_Como_to_Milan.Remove(s4);
+
+Console.WriteLine("\nModified train route from Como to Milan:");
+foreach(TrainStation station in trainRoute_Como_to_Milan){
+    Console.WriteLine(station.name);
+}
+
+
