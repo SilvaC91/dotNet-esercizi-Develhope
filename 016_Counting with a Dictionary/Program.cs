@@ -23,12 +23,10 @@ foreach(string word in words){
     string wordToLower = word.ToLower();
     if(uniqueWordsCount.ContainsKey(wordToLower)){
         uniqueWordsCount[wordToLower]++; 
-
     }else{
         uniqueWordsCount.Add(wordToLower, 1);
     }
 }
-
 foreach(var kvp in uniqueWordsCount){
     Console.WriteLine($"Key = {kvp.Key}, Value = {kvp.Value}");
 }
