@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("011_Making a List, checking it twice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82c6d8402fde6b968d1e4072789849f320e5687b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+288287603466947c8561c84cc57485685a111b35")]
 [assembly: System.Reflection.AssemblyProductAttribute("011_Making a List, checking it twice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("011_Making a List, checking it twice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
