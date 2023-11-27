@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/016_Counting with a Dictionary/bin/Debug/net8.0/016_Counting with a Dictionary
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/016_Counting with a Dictionary/bin/Debug/net8.0/016_Counting with a Dictionary.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/016_Counting with a Dictionary/bin/Debug/net8.0/016_Counting with a Dictionary.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/016_Counting with a Dictionary/bin/Debug/net8.0/016_Counting with a Dictionary.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/016_Counting with a Dictionary/bin/Debug/net8.0/016_Counting with a Dictionary.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/016_Counting with a Dictionary/obj/Debug/net8.0/016_Counting with a Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/016_Counting with a Dictionary/obj/Debug/net8.0/016_Counting with a Dictionary.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/016_Counting with a Dictionary/obj/Debug/net8.0/016_Counting with a Dictionary.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/016_Counting with a Dictionary/obj/Debug/net8.0/016_Counting with a Dictionary.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/016_Counting with a Dictionary/obj/Debug/net8.0/016_Counting with a Dictionary.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/016_Counting with a Dictionary/obj/Debug/net8.0/016_Counting with a Dictionary.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/016_Counting with a Dictionary/obj/Debug/net8.0/refint/016_Counting with a Dictionary.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/016_Counting with a Dictionary/obj/Debug/net8.0/016_Counting with a Dictionary.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/016_Counting with a Dictionary/obj/Debug/net8.0/016_Counting with a Dictionary.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/016_Counting with a Dictionary/obj/Debug/net8.0/ref/016_Counting with a Dictionary.dll
