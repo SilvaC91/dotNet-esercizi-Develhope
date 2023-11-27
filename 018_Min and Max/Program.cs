@@ -16,7 +16,4 @@ for(int i=0; i<numbersCount; i++){
     numbersMax = Math.Max(numbers[i], numbersMax);
     numbersMin = Math.Min(numbers[i], numbersMin);
 }
-Console.WriteLine($"Min number = {numbersMin}\nMax number = ");
-
-
-
+Console.WriteLine($"Min number = {numbersMin}\nMax number = {numbersMax}");
