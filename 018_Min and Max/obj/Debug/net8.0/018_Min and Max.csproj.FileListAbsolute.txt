@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/018_Min and Max/bin/Debug/net8.0/018_Min and Max
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/018_Min and Max/bin/Debug/net8.0/018_Min and Max.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/018_Min and Max/bin/Debug/net8.0/018_Min and Max.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/018_Min and Max/bin/Debug/net8.0/018_Min and Max.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/018_Min and Max/bin/Debug/net8.0/018_Min and Max.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/018_Min and Max/obj/Debug/net8.0/018_Min and Max.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/018_Min and Max/obj/Debug/net8.0/018_Min and Max.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/018_Min and Max/obj/Debug/net8.0/018_Min and Max.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/018_Min and Max/obj/Debug/net8.0/018_Min and Max.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/018_Min and Max/obj/Debug/net8.0/018_Min and Max.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/018_Min and Max/obj/Debug/net8.0/018_Min and Max.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/018_Min and Max/obj/Debug/net8.0/refint/018_Min and Max.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/018_Min and Max/obj/Debug/net8.0/018_Min and Max.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/018_Min and Max/obj/Debug/net8.0/018_Min and Max.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/018_Min and Max/obj/Debug/net8.0/ref/018_Min and Max.dll
