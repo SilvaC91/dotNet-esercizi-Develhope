@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/020_Sharing victory/bin/Debug/net8.0/020_Sharing victory
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/020_Sharing victory/bin/Debug/net8.0/020_Sharing victory.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/020_Sharing victory/bin/Debug/net8.0/020_Sharing victory.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/020_Sharing victory/bin/Debug/net8.0/020_Sharing victory.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/020_Sharing victory/bin/Debug/net8.0/020_Sharing victory.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/020_Sharing victory/obj/Debug/net8.0/020_Sharing victory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/020_Sharing victory/obj/Debug/net8.0/020_Sharing victory.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/020_Sharing victory/obj/Debug/net8.0/020_Sharing victory.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/020_Sharing victory/obj/Debug/net8.0/020_Sharing victory.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/020_Sharing victory/obj/Debug/net8.0/020_Sharing victory.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/020_Sharing victory/obj/Debug/net8.0/020_Sharing victory.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/020_Sharing victory/obj/Debug/net8.0/refint/020_Sharing victory.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/020_Sharing victory/obj/Debug/net8.0/020_Sharing victory.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/020_Sharing victory/obj/Debug/net8.0/020_Sharing victory.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/020_Sharing victory/obj/Debug/net8.0/ref/020_Sharing victory.dll
