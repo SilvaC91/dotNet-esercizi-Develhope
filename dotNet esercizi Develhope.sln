@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "020_Sharing victory", "020_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021_Query a list of integers", "021_Query a list of integers\021_Query a list of integers.csproj", "{7FF60319-A919-4FA6-9DF4-6F93BC045FAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "022_Clear and concise", "022_Clear and concise\022_Clear and concise.csproj", "{2F6A1373-1878-4415-8F75-596C176D44E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -307,6 +309,18 @@ Global
 		{7FF60319-A919-4FA6-9DF4-6F93BC045FAD}.Release|x64.Build.0 = Release|Any CPU
 		{7FF60319-A919-4FA6-9DF4-6F93BC045FAD}.Release|x86.ActiveCfg = Release|Any CPU
 		{7FF60319-A919-4FA6-9DF4-6F93BC045FAD}.Release|x86.Build.0 = Release|Any CPU
+		{2F6A1373-1878-4415-8F75-596C176D44E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F6A1373-1878-4415-8F75-596C176D44E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F6A1373-1878-4415-8F75-596C176D44E6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2F6A1373-1878-4415-8F75-596C176D44E6}.Debug|x64.Build.0 = Debug|Any CPU
+		{2F6A1373-1878-4415-8F75-596C176D44E6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2F6A1373-1878-4415-8F75-596C176D44E6}.Debug|x86.Build.0 = Debug|Any CPU
+		{2F6A1373-1878-4415-8F75-596C176D44E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F6A1373-1878-4415-8F75-596C176D44E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F6A1373-1878-4415-8F75-596C176D44E6}.Release|x64.ActiveCfg = Release|Any CPU
+		{2F6A1373-1878-4415-8F75-596C176D44E6}.Release|x64.Build.0 = Release|Any CPU
+		{2F6A1373-1878-4415-8F75-596C176D44E6}.Release|x86.ActiveCfg = Release|Any CPU
+		{2F6A1373-1878-4415-8F75-596C176D44E6}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
