@@ -43,7 +43,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "019_Grading the students", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "020_Sharing victory", "020_Sharing victory\020_Sharing victory.csproj", "{D9E53835-07A6-4B79-943B-0210710CF677}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021_Query a list of integers", "020_Query a list of integers\021_Query a list of integers.csproj", "{6D1F9839-51ED-4231-9924-AD07B5D55D2B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021_Query a list of integers", "021_Query a list of integers\021_Query a list of integers.csproj", "{7FF60319-A919-4FA6-9DF4-6F93BC045FAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -295,18 +295,18 @@ Global
 		{D9E53835-07A6-4B79-943B-0210710CF677}.Release|x64.Build.0 = Release|Any CPU
 		{D9E53835-07A6-4B79-943B-0210710CF677}.Release|x86.ActiveCfg = Release|Any CPU
 		{D9E53835-07A6-4B79-943B-0210710CF677}.Release|x86.Build.0 = Release|Any CPU
-		{6D1F9839-51ED-4231-9924-AD07B5D55D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6D1F9839-51ED-4231-9924-AD07B5D55D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6D1F9839-51ED-4231-9924-AD07B5D55D2B}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{6D1F9839-51ED-4231-9924-AD07B5D55D2B}.Debug|x64.Build.0 = Debug|Any CPU
-		{6D1F9839-51ED-4231-9924-AD07B5D55D2B}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{6D1F9839-51ED-4231-9924-AD07B5D55D2B}.Debug|x86.Build.0 = Debug|Any CPU
-		{6D1F9839-51ED-4231-9924-AD07B5D55D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6D1F9839-51ED-4231-9924-AD07B5D55D2B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6D1F9839-51ED-4231-9924-AD07B5D55D2B}.Release|x64.ActiveCfg = Release|Any CPU
-		{6D1F9839-51ED-4231-9924-AD07B5D55D2B}.Release|x64.Build.0 = Release|Any CPU
-		{6D1F9839-51ED-4231-9924-AD07B5D55D2B}.Release|x86.ActiveCfg = Release|Any CPU
-		{6D1F9839-51ED-4231-9924-AD07B5D55D2B}.Release|x86.Build.0 = Release|Any CPU
+		{7FF60319-A919-4FA6-9DF4-6F93BC045FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF60319-A919-4FA6-9DF4-6F93BC045FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FF60319-A919-4FA6-9DF4-6F93BC045FAD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7FF60319-A919-4FA6-9DF4-6F93BC045FAD}.Debug|x64.Build.0 = Debug|Any CPU
+		{7FF60319-A919-4FA6-9DF4-6F93BC045FAD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7FF60319-A919-4FA6-9DF4-6F93BC045FAD}.Debug|x86.Build.0 = Debug|Any CPU
+		{7FF60319-A919-4FA6-9DF4-6F93BC045FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FF60319-A919-4FA6-9DF4-6F93BC045FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FF60319-A919-4FA6-9DF4-6F93BC045FAD}.Release|x64.ActiveCfg = Release|Any CPU
+		{7FF60319-A919-4FA6-9DF4-6F93BC045FAD}.Release|x64.Build.0 = Release|Any CPU
+		{7FF60319-A919-4FA6-9DF4-6F93BC045FAD}.Release|x86.ActiveCfg = Release|Any CPU
+		{7FF60319-A919-4FA6-9DF4-6F93BC045FAD}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
