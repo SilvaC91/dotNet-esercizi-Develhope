@@ -9,16 +9,16 @@ IEnumerable<int> range = Enumerable.Range(0, 10)
 
 List<int> numbers = new List<int>(range);
 
-var sortedNumbers = from number in numbers
-                    orderby number
-                    select number;
+var ascendingSortedNumbers = from number in numbers
+                             orderby number
+                             select number;
 
 var descendingSortedNumbers = from number in numbers
-                    orderby number descending
-                    select number;
+                              orderby number descending
+                              select number;
 
 Console.WriteLine("Ascending sorted numbers");
-foreach(int number in sortedNumbers){
+foreach(int number in ascendingSortedNumbers){
     Console.WriteLine(number);
 }
 Console.WriteLine("\nDescending sorted numbers");
