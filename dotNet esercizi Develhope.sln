@@ -43,13 +43,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "019_Grading the students", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "020_Sharing victory", "020_Sharing victory\020_Sharing victory.csproj", "{D9E53835-07A6-4B79-943B-0210710CF677}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021_Query a list of integers", "020_Query a list of integers\021_Query a list of integers.csproj", "{6D1F9839-51ED-4231-9924-AD07B5D55D2B}"
+EndProject
 Global
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {877BBBC7-610D-42EF-8556-1D6F96BB7D96}
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|x64 = Debug|x64
@@ -299,5 +295,23 @@ Global
 		{D9E53835-07A6-4B79-943B-0210710CF677}.Release|x64.Build.0 = Release|Any CPU
 		{D9E53835-07A6-4B79-943B-0210710CF677}.Release|x86.ActiveCfg = Release|Any CPU
 		{D9E53835-07A6-4B79-943B-0210710CF677}.Release|x86.Build.0 = Release|Any CPU
+		{6D1F9839-51ED-4231-9924-AD07B5D55D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D1F9839-51ED-4231-9924-AD07B5D55D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D1F9839-51ED-4231-9924-AD07B5D55D2B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6D1F9839-51ED-4231-9924-AD07B5D55D2B}.Debug|x64.Build.0 = Debug|Any CPU
+		{6D1F9839-51ED-4231-9924-AD07B5D55D2B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6D1F9839-51ED-4231-9924-AD07B5D55D2B}.Debug|x86.Build.0 = Debug|Any CPU
+		{6D1F9839-51ED-4231-9924-AD07B5D55D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D1F9839-51ED-4231-9924-AD07B5D55D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D1F9839-51ED-4231-9924-AD07B5D55D2B}.Release|x64.ActiveCfg = Release|Any CPU
+		{6D1F9839-51ED-4231-9924-AD07B5D55D2B}.Release|x64.Build.0 = Release|Any CPU
+		{6D1F9839-51ED-4231-9924-AD07B5D55D2B}.Release|x86.ActiveCfg = Release|Any CPU
+		{6D1F9839-51ED-4231-9924-AD07B5D55D2B}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {877BBBC7-610D-42EF-8556-1D6F96BB7D96}
 	EndGlobalSection
 EndGlobal
