@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/023_Sorted/bin/Debug/net8.0/023_Sorted
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/023_Sorted/bin/Debug/net8.0/023_Sorted.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/023_Sorted/bin/Debug/net8.0/023_Sorted.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/023_Sorted/bin/Debug/net8.0/023_Sorted.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/023_Sorted/bin/Debug/net8.0/023_Sorted.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/023_Sorted/obj/Debug/net8.0/023_Sorted.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/023_Sorted/obj/Debug/net8.0/023_Sorted.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/023_Sorted/obj/Debug/net8.0/023_Sorted.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/023_Sorted/obj/Debug/net8.0/023_Sorted.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/023_Sorted/obj/Debug/net8.0/023_Sorted.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/023_Sorted/obj/Debug/net8.0/023_Sorted.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/023_Sorted/obj/Debug/net8.0/refint/023_Sorted.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/023_Sorted/obj/Debug/net8.0/023_Sorted.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/023_Sorted/obj/Debug/net8.0/023_Sorted.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/023_Sorted/obj/Debug/net8.0/ref/023_Sorted.dll
