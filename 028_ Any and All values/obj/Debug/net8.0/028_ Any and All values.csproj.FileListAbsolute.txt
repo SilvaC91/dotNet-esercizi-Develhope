@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/028_ Any and All values/bin/Debug/net8.0/028_ Any and All values
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/028_ Any and All values/bin/Debug/net8.0/028_ Any and All values.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/028_ Any and All values/bin/Debug/net8.0/028_ Any and All values.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/028_ Any and All values/bin/Debug/net8.0/028_ Any and All values.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/028_ Any and All values/bin/Debug/net8.0/028_ Any and All values.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/028_ Any and All values/obj/Debug/net8.0/028_ Any and All values.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/028_ Any and All values/obj/Debug/net8.0/028_ Any and All values.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/028_ Any and All values/obj/Debug/net8.0/028_ Any and All values.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/028_ Any and All values/obj/Debug/net8.0/028_ Any and All values.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/028_ Any and All values/obj/Debug/net8.0/028_ Any and All values.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/028_ Any and All values/obj/Debug/net8.0/028_ Any and All values.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/028_ Any and All values/obj/Debug/net8.0/refint/028_ Any and All values.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/028_ Any and All values/obj/Debug/net8.0/028_ Any and All values.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/028_ Any and All values/obj/Debug/net8.0/028_ Any and All values.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/028_ Any and All values/obj/Debug/net8.0/ref/028_ Any and All values.dll

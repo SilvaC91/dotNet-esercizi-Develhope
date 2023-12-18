@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/025_That sums it up/bin/Debug/net8.0/025_That sums it up
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/025_That sums it up/bin/Debug/net8.0/025_That sums it up.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/025_That sums it up/bin/Debug/net8.0/025_That sums it up.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/025_That sums it up/bin/Debug/net8.0/025_That sums it up.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/025_That sums it up/bin/Debug/net8.0/025_That sums it up.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/025_That sums it up/obj/Debug/net8.0/025_That sums it up.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/025_That sums it up/obj/Debug/net8.0/025_That sums it up.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/025_That sums it up/obj/Debug/net8.0/025_That sums it up.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/025_That sums it up/obj/Debug/net8.0/025_That sums it up.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/025_That sums it up/obj/Debug/net8.0/025_That sums it up.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/025_That sums it up/obj/Debug/net8.0/025_That sums it up.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/025_That sums it up/obj/Debug/net8.0/refint/025_That sums it up.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/025_That sums it up/obj/Debug/net8.0/025_That sums it up.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/025_That sums it up/obj/Debug/net8.0/025_That sums it up.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/025_That sums it up/obj/Debug/net8.0/ref/025_That sums it up.dll

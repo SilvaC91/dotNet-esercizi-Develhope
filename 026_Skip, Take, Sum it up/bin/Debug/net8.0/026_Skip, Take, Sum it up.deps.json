@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "026_Skip, Take, Sum it up/1.0.0": {
+        "runtime": {
+          "026_Skip, Take, Sum it up.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "026_Skip, Take, Sum it up/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

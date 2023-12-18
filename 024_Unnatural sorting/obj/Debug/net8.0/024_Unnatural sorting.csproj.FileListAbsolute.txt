@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/024_Unnatural sorting/bin/Debug/net8.0/024_Unnatural sorting
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/024_Unnatural sorting/bin/Debug/net8.0/024_Unnatural sorting.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/024_Unnatural sorting/bin/Debug/net8.0/024_Unnatural sorting.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/024_Unnatural sorting/bin/Debug/net8.0/024_Unnatural sorting.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/024_Unnatural sorting/bin/Debug/net8.0/024_Unnatural sorting.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/024_Unnatural sorting/obj/Debug/net8.0/024_Unnatural sorting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/024_Unnatural sorting/obj/Debug/net8.0/024_Unnatural sorting.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/024_Unnatural sorting/obj/Debug/net8.0/024_Unnatural sorting.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/024_Unnatural sorting/obj/Debug/net8.0/024_Unnatural sorting.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/024_Unnatural sorting/obj/Debug/net8.0/024_Unnatural sorting.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/024_Unnatural sorting/obj/Debug/net8.0/024_Unnatural sorting.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/024_Unnatural sorting/obj/Debug/net8.0/refint/024_Unnatural sorting.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/024_Unnatural sorting/obj/Debug/net8.0/024_Unnatural sorting.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/024_Unnatural sorting/obj/Debug/net8.0/024_Unnatural sorting.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/024_Unnatural sorting/obj/Debug/net8.0/ref/024_Unnatural sorting.dll

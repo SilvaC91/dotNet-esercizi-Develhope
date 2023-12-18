@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/027_Experiment - there can be only one/bin/Debug/net8.0/027_Experiment - there can be only one
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/027_Experiment - there can be only one/bin/Debug/net8.0/027_Experiment - there can be only one.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/027_Experiment - there can be only one/bin/Debug/net8.0/027_Experiment - there can be only one.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/027_Experiment - there can be only one/bin/Debug/net8.0/027_Experiment - there can be only one.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/027_Experiment - there can be only one/bin/Debug/net8.0/027_Experiment - there can be only one.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/027_Experiment - there can be only one/obj/Debug/net8.0/027_Experiment - there can be only one.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/027_Experiment - there can be only one/obj/Debug/net8.0/027_Experiment - there can be only one.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/027_Experiment - there can be only one/obj/Debug/net8.0/027_Experiment - there can be only one.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/027_Experiment - there can be only one/obj/Debug/net8.0/027_Experiment - there can be only one.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/027_Experiment - there can be only one/obj/Debug/net8.0/027_Experiment - there can be only one.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/027_Experiment - there can be only one/obj/Debug/net8.0/027_Experiment - there can be only one.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/027_Experiment - there can be only one/obj/Debug/net8.0/refint/027_Experiment - there can be only one.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/027_Experiment - there can be only one/obj/Debug/net8.0/027_Experiment - there can be only one.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/027_Experiment - there can be only one/obj/Debug/net8.0/027_Experiment - there can be only one.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/027_Experiment - there can be only one/obj/Debug/net8.0/ref/027_Experiment - there can be only one.dll

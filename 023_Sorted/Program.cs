@@ -4,7 +4,7 @@ Bonus points if you can do it in reverse too.
 */
 
 Random random = new Random();
-IEnumerable<int> range = Enumerable.Range(0, 10)
+IEnumerable<int> range = Enumerable.Range(0, 1000)
                       .Select(i => random.Next(0, 501));
 
 List<int> numbers = new List<int>(range);

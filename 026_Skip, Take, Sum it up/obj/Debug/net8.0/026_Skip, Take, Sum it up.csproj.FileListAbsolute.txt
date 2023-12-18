@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/026_Skip, Take, Sum it up/bin/Debug/net8.0/026_Skip, Take, Sum it up
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/026_Skip, Take, Sum it up/bin/Debug/net8.0/026_Skip, Take, Sum it up.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/026_Skip, Take, Sum it up/bin/Debug/net8.0/026_Skip, Take, Sum it up.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/026_Skip, Take, Sum it up/bin/Debug/net8.0/026_Skip, Take, Sum it up.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/026_Skip, Take, Sum it up/bin/Debug/net8.0/026_Skip, Take, Sum it up.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/026_Skip, Take, Sum it up/obj/Debug/net8.0/026_Skip, Take, Sum it up.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/026_Skip, Take, Sum it up/obj/Debug/net8.0/026_Skip, Take, Sum it up.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/026_Skip, Take, Sum it up/obj/Debug/net8.0/026_Skip, Take, Sum it up.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/026_Skip, Take, Sum it up/obj/Debug/net8.0/026_Skip, Take, Sum it up.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/026_Skip, Take, Sum it up/obj/Debug/net8.0/026_Skip, Take, Sum it up.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/026_Skip, Take, Sum it up/obj/Debug/net8.0/026_Skip, Take, Sum it up.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/026_Skip, Take, Sum it up/obj/Debug/net8.0/refint/026_Skip, Take, Sum it up.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/026_Skip, Take, Sum it up/obj/Debug/net8.0/026_Skip, Take, Sum it up.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/026_Skip, Take, Sum it up/obj/Debug/net8.0/026_Skip, Take, Sum it up.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/026_Skip, Take, Sum it up/obj/Debug/net8.0/ref/026_Skip, Take, Sum it up.dll

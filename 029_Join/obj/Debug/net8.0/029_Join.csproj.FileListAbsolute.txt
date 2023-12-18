@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/029_Join/bin/Debug/net8.0/029_Join
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/029_Join/bin/Debug/net8.0/029_Join.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/029_Join/bin/Debug/net8.0/029_Join.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/029_Join/bin/Debug/net8.0/029_Join.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/029_Join/bin/Debug/net8.0/029_Join.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/029_Join/obj/Debug/net8.0/029_Join.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/029_Join/obj/Debug/net8.0/029_Join.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/029_Join/obj/Debug/net8.0/029_Join.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/029_Join/obj/Debug/net8.0/029_Join.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/029_Join/obj/Debug/net8.0/029_Join.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/029_Join/obj/Debug/net8.0/029_Join.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/029_Join/obj/Debug/net8.0/refint/029_Join.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/029_Join/obj/Debug/net8.0/029_Join.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/029_Join/obj/Debug/net8.0/029_Join.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/029_Join/obj/Debug/net8.0/ref/029_Join.dll
