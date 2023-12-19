@@ -10,8 +10,8 @@ IEnumerable<int> range = Enumerable.Range(0, 1000)
 List<int> numbers = new List<int>(range);
 
 var oddNumbers = from number in numbers
-    where number % 2 != 0
-    select number;
+                 where number % 2 != 0
+                 select number;
 
 foreach(int number in oddNumbers){
     Console.WriteLine(number);

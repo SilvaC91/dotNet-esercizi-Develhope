@@ -1,0 +1,15 @@
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/030_Projecting/bin/Debug/net8.0/030_Projecting
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/030_Projecting/bin/Debug/net8.0/030_Projecting.deps.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/030_Projecting/bin/Debug/net8.0/030_Projecting.runtimeconfig.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/030_Projecting/bin/Debug/net8.0/030_Projecting.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/030_Projecting/bin/Debug/net8.0/030_Projecting.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/030_Projecting/obj/Debug/net8.0/030_Projecting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/030_Projecting/obj/Debug/net8.0/030_Projecting.AssemblyInfoInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/030_Projecting/obj/Debug/net8.0/030_Projecting.AssemblyInfo.cs
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/030_Projecting/obj/Debug/net8.0/030_Projecting.csproj.CoreCompileInputs.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/030_Projecting/obj/Debug/net8.0/030_Projecting.sourcelink.json
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/030_Projecting/obj/Debug/net8.0/030_Projecting.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/030_Projecting/obj/Debug/net8.0/refint/030_Projecting.dll
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/030_Projecting/obj/Debug/net8.0/030_Projecting.pdb
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/030_Projecting/obj/Debug/net8.0/030_Projecting.genruntimeconfig.cache
+/Users/giorgia.impro/Desktop/dotNet esercizi Develhope/030_Projecting/obj/Debug/net8.0/ref/030_Projecting.dll
